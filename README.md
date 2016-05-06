@@ -1,2 +1,2 @@
 # TcFirstApp
-Proof of concept web application for TC
+Proof of concept web application for TC.
